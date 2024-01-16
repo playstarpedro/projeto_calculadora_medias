@@ -59,6 +59,10 @@ form button {
     border-radius: 3px;
 }
 
+form button:hover {
+    background-color: rgb(10, 232, 121);
+}
+
 table {
     width: 100%;
 }
